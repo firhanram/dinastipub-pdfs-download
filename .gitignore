@@ -1,3 +1,4 @@
 downloads
 .playwright
 node_modules
+.env
